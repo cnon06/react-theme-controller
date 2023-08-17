@@ -37,7 +37,7 @@ const useFetch = (url, method = "GET") => {
       fetchData();
     }
 
-    if ((method === "POST" && options)) {
+    if (method === "POST" && options) {
       fetchData(options);
     }
   }, [url, options, method]);

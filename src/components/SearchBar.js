@@ -3,11 +3,11 @@ import { useNavigate } from "react-router-dom";
 
 function Searchbar() {
   const [keyword, setKeyword] = useState("");
-  const navigate = useNavigate()
+  const navigate = useNavigate();
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    navigate( `/search?q=${keyword}`)
+    navigate(`/search?q=${keyword}`);
   };
 
   return (
