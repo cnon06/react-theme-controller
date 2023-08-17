@@ -9,7 +9,7 @@ function ProductCard({ recipe }) {
     <div className="col-3 mb-3">
       <div
         className={`card border-${mode === "dark" ? "light" : "dark"} bg-${
-          mode === "light" ? "light" : "dark"
+          mode === "dark" ? "dark" : "light"
         } text-${mode === "dark" ? "light" : "dark"}`}
       >
         <img src={`img/${recipe.image}`} alt={recipe.title} className="m-1" />
