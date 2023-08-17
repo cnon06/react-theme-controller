@@ -1,0 +1,64 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Halka Kebabı",
+      "description": "8-10 people, 15 minutes preparation, 30 minutes cooking",
+      "materials": [
+        "500 grams minced meat",
+        "1 teaspoon of salt",
+        "Half a teaspoon of black pepper",
+        "3 eggplants",
+        "3 potatoes"
+      ],
+      "preparation": "Let's peel the eggplants with variegated skins and slice them in half a finger width. Then add salt to the bowl filled with water and mix, and let the eggplants sit in water for 20 minutes to remove the bitterness. Let's also slice the onions that we peeled in circles.",
+      "image": "halka-kebabi.jpg",
+      "url": "https://www.nefisyemektarifleri.com/video/halka-kebabi/"
+    },
+    {
+      "id": "2",
+      "title": "Karniyarık Meal",
+      "description": "8-10 people, 15 minutes preparation, 30 minutes cooking",
+      "materials": [
+        "6 small eggplants",
+        "3 green peppers",
+        "2 medium onions",
+        "2 tomatoes",
+        "2 green peppers"
+      ],
+      "preparation": "Peel the eggplants in stripes and leave them in salted water for half an hour so that they do not absorb oil. After washing them well, drain the water with a towel and fry in a little oil. Fry 3 peppers in oil. Then fry the chopped onions in the same pan, add the minced meat and fry for a while, add the peppers and garlic and fry for 2 more minutes.",
+      "image": "karniyarik.jpg",
+      "url": "https://www.nefisyemektarifleri.com/video/karniyarik-yemegi-videosu/"
+    },
+    {
+      "id": "3",
+      "title": "Chicken Sultan Kebab",
+      "description": "8-10 people, 15 minutes preparation, 30 minutes cooking",
+      "materials": [
+        "2 phyllo dough",
+        "400g chicken breast",
+        "400g chicken cutlet",
+        "1 onion",
+        "1 tablespoon of tomato paste"
+      ],
+      "preparation": "Peel the eggplant, cut it into small pieces and fry it with oil. Take a strainer and wait for the oil to drain, meanwhile, sauté the chickens. Chop the chicken in cubes, put it in the pan and cook it by stirring it in between. When it turns color and releases its juice, add the edible chopped onion.",
+      "image": "tavuklu-sultan-kebabi.jpg",
+      "url": "https://www.nefisyemektarifleri.com/tavuklu-sultan-kebabi-tarifi/"
+    },
+    {
+      "title": "iskender",
+      "description": "kendin pişir kendin ye",
+      "preparation": "kendin pişir kendin ye",
+      "materials": [
+        "et",
+        "salça",
+        "yoğurt",
+        "ekmek"
+      ],
+      "image": "ev-yapimi-iskender.jpg",
+      "url": "",
+      "id": "9F8Mvfd"
+    }
+    
+  ]
+}
